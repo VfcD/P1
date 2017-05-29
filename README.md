@@ -16,7 +16,7 @@ Raspberry Pi 3 ; Ubuntu MATE for Raspberry Pi 3 ; ubuntu-mate-16.04.2-desktop-ar
 # Install Nginx Web Server
 	apt install nginx
 
-## start and autostart Ngingx
+## start and autostart nginx
 	systemctl start nginx
 
 ## check if not already in autostart (enabled)
