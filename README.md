@@ -1,4 +1,4 @@
-# LEMP Tutorial | Linux Enginx MariaDB Php7.0
+# LEMP Tutorial | Linux Nginx MariaDB Php7.0
 ##### flavoured by: https://www.linuxbabe.com/linux-server/install-nginx-mariadb-php7-lemp-stack-ubuntu-16-04-lts
 Raspberry Pi 3 ; Ubuntu MATE for Raspberry Pi 3 ; ubuntu-mate-16.04.2-desktop-armhf-raspberry-pi.img.xz
 
